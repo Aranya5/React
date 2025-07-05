@@ -8,6 +8,7 @@ function App() {
     <KgButton></KgButton>
     <Hello></Hello>
     <Random></Random>
+    
 
   </div>
 }
