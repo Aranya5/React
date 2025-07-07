@@ -9,7 +9,7 @@ function AppInput() {
           <input type="date"></input>
         </div>
         <div class="col-2">
-          <button type="button" class="btn btn-success">
+          <button type="button" class="btn btn-success kg-button">
             Add
           </button>
         </div>

@@ -1,6 +1,6 @@
 function AppHead(){
   return(
-          <h1>Todo React App</h1>
-  )
+          <h1 className="bold">Todo React App</h1>
+  );
 }
 export default AppHead;

@@ -1,0 +1,20 @@
+.bold {
+  font-weight: 700;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+
+  
+}
+
+.kg-button {
+  margin:10px;
+  min-width: 80px;
+}
+
+.text-aligh-left {
+  text-align: left;
+}
