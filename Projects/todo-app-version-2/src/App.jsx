@@ -8,7 +8,7 @@ function App() {
     <center className="todo-Container">
       <AppHead />
       <AppInput />
-      <AppContent todoName={"4/10/23"} todoDate={"buy milk"} />
+      <AppContent todoName={"4/10/23"} todoDate={"Buy milk"} />
     </center>
   );
 }
