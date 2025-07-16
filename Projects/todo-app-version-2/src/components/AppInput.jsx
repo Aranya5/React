@@ -3,7 +3,7 @@ function AppInput() {
     <div class="container text-center">
       <div class="row">
         <div class="col-6">
-          <input type="text" placeholder="Enter Todo Here"></input>
+          <input type="text" placeholder="Enter Todo task Here"></input>
         </div>
         <div class="col-4">
           <input type="date"></input>
